@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://vishalnaiblog.now.sh/](https://vishalnaiblog.now.sh/)
 
-- 💬 Ask me about **reacr, nodejs, typescript**
+- 💬 Ask me about **react, nodejs, typescript**
 
 - 📫 How to reach me **vishalnai56@gmail.com**
 
@@ -16,7 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vishalnai56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalnai56" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9343061/vishal-nai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9343061/vishal-nai" height="30" width="40" /></a>
+
+<a href="https://twitter.com/vishalnai56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalnai56" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9343061/vishal-nai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9343061/vishal-nai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
