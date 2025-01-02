@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Nai</h1>
-<h3 align="center">A passionate MERN stack developer having 5+ years of experience from India</h3>
+<h3 align="center">A passionate MERN stack developer having 7+ years of experience from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vishalnai56" target="blank"><img src="https://img.shields.io/twitter/follow/vishalnai56?logo=twitter&style=for-the-badge" alt="vishalnai56" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://vishalnaiblog.now.sh/](https://vishalnaiblog.now.sh/)
 
-- 💬 Ask me about **react, nodejs, typescript**
+- 💬 Ask me about **Javascript, ReactJS, Nodejs, Typescript**
 
 - 📫 How to reach me **vishalnai56@gmail.com**
 
